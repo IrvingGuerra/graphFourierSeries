@@ -1,4 +1,4 @@
-# graphFourierSeriesCpp
+# Graficadora de Series de Fourier
  
 ## Comenzando 🚀
 
