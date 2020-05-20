@@ -8,4 +8,4 @@ _Este software es una demostracion grafica de una serie de fourier. Se dividio e
 
 
 
-![](gif.gif)
+![](gif1.gif)
