@@ -1,4 +1,4 @@
-# Graficadora de Series de Fourier
+# Graficadora de Series de Fourier en C++
  
 ## Comenzando 🚀
 
