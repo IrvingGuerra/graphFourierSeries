@@ -60,7 +60,7 @@ $ java client
 
 ![](gif.gif)
 
-### Contacto
+### Contacto 📆
 
 Si requiere ponerse en contacto con el desarrollador de este repositorio, escriba un mensaje en alguno de los siquientes contactos
 
