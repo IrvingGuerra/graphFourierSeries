@@ -24,7 +24,7 @@ public class client {
         int terminos = 1;
         try{
             DatagramSocket socketUDP = new DatagramSocket();
-            InetAddress host = InetAddress.getByName("192.168.0.7");
+            InetAddress host = InetAddress.getByName("192.168.0.2"); //localhost
             // Alojamos Bytes para la fn Original 
             ByteBuffer fnX = ByteBuffer.allocate(5032).order(ByteOrder.LITTLE_ENDIAN);
             ByteBuffer fnY = ByteBuffer.allocate(5032).order(ByteOrder.LITTLE_ENDIAN);
