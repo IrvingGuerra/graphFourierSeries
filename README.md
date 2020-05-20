@@ -17,8 +17,11 @@ Este software es una demostracion grafica de una Serie de Fourier. Se dividio en
 
 ## Pre-instalaciones 🔧
 - XQuartz (dmg ⬆️ o por consola ⬇️)
-```shell
+```sh
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null ; brew install caskroom/cask/brew-cask 2> /dev/null
+```
+```sh
+brew cask install xquartz
 ```
 
 
